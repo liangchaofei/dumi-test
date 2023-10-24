@@ -1,6 +1,6 @@
 {
-  "name": "@wode673/components",
-  "version": "1.0.2",
+  "name": "@curry_fe/components",
+  "version": "2.0.0",
   "description": "组件库",
   "main": "dist/index.js",
   "scripts": {

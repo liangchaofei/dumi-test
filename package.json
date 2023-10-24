@@ -2,12 +2,17 @@
   "name": "dumi-monorepo",
   "version": "0.0.1",
   "description": "test",
+  "private": "true",
   "scripts": {
     "start": "npm run dev",
     "dev": "dumi dev",
-    "build": "dumi build",
     "prepare": "husky install && dumi setup",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "build": "pnpm --filter './packages/**' build",
+    "changeset": "changeset",
+    "ci:publish": "pnpm publish -r",
+    "version-packages": "changeset version",
+    "pub": "pnpm version patch && pnpm publish -r"
   },
   "authors": [],
   "license": "MIT",

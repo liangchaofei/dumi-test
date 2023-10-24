@@ -1,6 +1,6 @@
 {
-  "name": "@wode673/hooks",
-  "version": "1.0.0",
+  "name": "@curry_fe/hooks",
+  "version": "2.0.0",
   "description": "HOOKS库",
   "main": "index.js",
   "scripts": {

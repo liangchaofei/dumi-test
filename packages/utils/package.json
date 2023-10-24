@@ -1,6 +1,6 @@
 {
-  "name": "@wode673/utils",
-  "version": "1.0.0",
+  "name": "@curry_fe/utils",
+  "version": "2.0.0",
   "description": "utils库",
   "main": "dist/index.js",
   "scripts": {

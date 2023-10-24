@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdumi_monorepo=self.webpackChunkdumi_monorepo||[]).push([[771],{24771:function(h,r,n){n.r(r),n.d(r,{Foo:function(){return i}});var l=n(50959),u=function(d,e){return d+e},t=u,o=n(11527),s=function(d){return(0,o.jsxs)("div",{children:[(0,o.jsx)("h4",{children:d.title}),(0,o.jsx)("p",{children:t(1,2)})]})},i=s}}]);

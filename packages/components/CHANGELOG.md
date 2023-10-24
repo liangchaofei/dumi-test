@@ -1,5 +1,12 @@
 # @wode673/components
 
+## 2.0.0
+
+### Major Changes
+
+- init
+- init
+
 ## 1.0.2
 
 ### Patch Changes
